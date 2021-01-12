@@ -1,0 +1,7 @@
+{
+  "name": "mobile-apotek",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
